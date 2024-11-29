@@ -7,10 +7,14 @@
 
 ## Current Interests
 - 🌱 Learning about algorithms for LLM edge inference.
+<!--
 - 🤔 Nascent interest in biotech/neurotech.
+--->
 - 👯 Looking to collaborate on AI projects relevant to integration in the IoT grid (smart cities, neurotech wearables).
 - 👯 Also looking to work on projects involving algorithmic trading/betting, such as financial markets, sports bets, or Kalshi events.
+<!--
 - 📖 Currently reading books in the fields of traditional ML methods, entrepreneurial strategy, and the 21st century.
+--->
 
 <!--
 **rohanc-30/rohanc-30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
